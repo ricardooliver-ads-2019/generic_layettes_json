@@ -1,16 +1,16 @@
 {
-  "layetteId": "auto",
-  "userId": "auto",
-  "nameBaby": "",
+  "layetteId": null,
+  "userId": null,
+  "nameBaby": null,
   "layetteProfile": {
-    "dueDate": "2025-11-15",
-    "totalBudget": 3500,
-    "climate": "frio",
-    "sexBaby": "feminino",
+    "dueDate": null,
+    "totalBudget": null,
+    "climate": "quente",
+    "sexBaby": null,
     "numberOfBabies": 1,
-    "familyProfile": "moderno",
+    "familyProfile": null,
     "layetteDurationInMonths": 6,
-    "expectedBabySize": "grande"
+    "expectedBabySize": null
   },
   "globalProgress": 0.0,
   "totalSpentAll": 0.0,
