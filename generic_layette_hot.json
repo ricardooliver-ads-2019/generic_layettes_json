@@ -2,16 +2,20 @@
   "layetteId": "auto",
   "userId": "auto",
   "nameBaby": "",
-  "dueDate": "",
-  "totalBudget": 0,
-  "climate": "quente",
-  "sexBaby": "",
-  "numberOfBabies": 1,
-  "familyProfile": "",
+  "layetteProfile": {
+    "dueDate": "2025-11-15",
+    "totalBudget": 3500,
+    "climate": "quente",
+    "sexBaby": "feminino",
+    "numberOfBabies": 1,
+    "familyProfile": "moderno",
+    "layetteDurationInMonths": 6,
+    "expectedBabySize": "grande"
+  },
   "globalProgress": 0.0,
-  "totalNeededAll": 3785,
+  "totalSpentAll": 0.0,
+  "totalNeededAll": 3821,
   "totalPurchasedAll": 0,
-  "totalSpent": 0,
   "categories": [
     {
       "categoryId": "auto",
@@ -20,9 +24,9 @@
       "progress": 0.0,
       "isCustom": false,
       "isDicarte": false,
-      "totalNeeded": 100,
+      "totalNeeded": 101,
       "totalPurchased": 0,
-      "totalSpent": 0,
+      "totalSpent": 0.0,
       "items": [
         {"itemId":"auto","name":"Body manga curta RN","icon":"🧦","quantityNeeded":8,"quantityPurchased":0,"priority":"média","notesItems":"Algodão leve respirável.","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
         {"itemId":"auto","name":"Body manga longa RN","icon":"🧦","quantityNeeded":2,"quantityPurchased":0,"priority":"média","notesItems":"Malha fina, só para noites mais frescas.","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
@@ -42,7 +46,7 @@
         {"itemId":"auto","name":"Macacão longo leve RN","icon":"🧦","quantityNeeded":2,"quantityPurchased":0,"priority":"média","notesItems":"Algodão fino.","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
         {"itemId":"auto","name":"Macacão longo leve 0‑3M","icon":"🧦","quantityNeeded":2,"quantityPurchased":0,"priority":"média","notesItems":"","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
         {"itemId":"auto","name":"Macacão longo leve 3‑6M","icon":"🧦","quantityNeeded":2,"quantityPurchased":0,"priority":"média","notesItems":"","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
-        {"itemId":"auto","name":"Swaddles velcro/zip","icon":"📦","quantityNeeded":1,"quantityPurchased":0,"priority":"média","notesItems":"Usado para ajudar os bebês a dormirem melhor.","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},               
+        {"itemId":"auto","name":"Swaddles velcro/zip","icon":"📦","quantityNeeded":1,"quantityPurchased":0,"priority":"média","notesItems":"Usado para ajudar os bebês a dormirem melhor.","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
         {"itemId":"auto","name":"Meias RN a 6 meses","icon":"🧦","quantityNeeded":8,"quantityPurchased":0,"priority":"média","notesItems":"Malha fina.","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
         {"itemId":"auto","name":"Toucas RN","icon":"🧦","quantityNeeded":1,"quantityPurchased":0,"priority":"média","notesItems":"Algodão fino, uso curto.","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
         {"itemId":"auto","name":"Luvas RN","icon":"🧦","quantityNeeded":2,"quantityPurchased":0,"priority":"média","notesItems":"Proteção contra arranhões.","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
@@ -59,9 +63,9 @@
       "progress": 0.0,
       "isCustom": false,
       "isDicarte": false,
-      "totalNeeded": 55,
+      "totalNeeded": 5,
       "totalPurchased": 0,
-      "totalSpent": 0,
+      "totalSpent": 0.0,
       "items": [
         {"itemId":"auto","name":"Mala maternidade","icon":"🧦","quantityNeeded":1,"quantityPurchased":0,"priority":"média","notesItems":"","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
         {"itemId":"auto","name":"Saida maternidade","icon":"🧦","quantityNeeded":1,"quantityPurchased":0,"priority":"média","notesItems":"Algodão leve respirável.","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
@@ -77,9 +81,9 @@
       "progress": 0.0,
       "isCustom": false,
       "isDicarte": false,
-      "totalNeeded": 3466,
+      "totalNeeded": 1049,
       "totalPurchased": 0,
-      "totalSpent": 0,
+      "totalSpent": 0.0,
       "items": [
         {"itemId":"auto","name":"Banheira com suporte","icon":"🛁","quantityNeeded":1,"quantityPurchased":0,"priority":"média","notesItems":"","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
         {"itemId":"auto","name":"Rede ou assento banho","icon":"🛁","quantityNeeded":1,"quantityPurchased":0,"priority":"média","notesItems":"","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
@@ -113,9 +117,9 @@
       "progress": 0.0,
       "isCustom": false,
       "isDicarte": false,
-      "totalNeeded": 55,
+      "totalNeeded": 2420,
       "totalPurchased": 0,
-      "totalSpent": 0,
+      "totalSpent": 0.0,
       "items": [
         {"itemId":"auto","name":"Fralda descartável RN","icon":"🛁","quantityNeeded":120,"quantityPurchased":0,"priority":"média","notesItems":"","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
         {"itemId":"auto","name":"Fralda descartável P","icon":"🛁","quantityNeeded":600,"quantityPurchased":0,"priority":"média","notesItems":"","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
@@ -130,9 +134,9 @@
       "progress": 0.0,
       "isCustom": false,
       "isDicarte": false,
-      "totalNeeded": 9,
+      "totalNeeded": 11,
       "totalPurchased": 0,
-      "totalSpent": 0,
+      "totalSpent": 0.0,
       "items": [
         {"itemId":"auto","name":"Termômetro digital","icon":"🌡️","quantityNeeded":1,"quantityPurchased":0,"priority":"alta","notesItems":"para febre ou emergência","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
         {"itemId":"auto","name":"Soro fisiológico","icon":"💧","quantityNeeded":2,"quantityPurchased":0,"priority":"alta","notesItems":"higiene nasal e ocular","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
@@ -155,7 +159,7 @@
       "isDicarte": false,
       "totalNeeded": 55,
       "totalPurchased": 0,
-      "totalSpent": 0,
+      "totalSpent": 0.0,
       "items": [
         {"itemId":"auto","name":"Almofada de amamentação","icon":"🤱","quantityNeeded":1,"quantityPurchased":0,"priority":"média","notesItems":"","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
         {"itemId":"auto","name":"Poltrona de amamentação","icon":"🤱","quantityNeeded":1,"quantityPurchased":0,"priority":"média","notesItems":"","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
@@ -164,7 +168,6 @@
         {"itemId":"auto","name":"Protetores de seios","icon":"🤱","quantityNeeded":2,"quantityPurchased":0,"priority":"média","notesItems":"","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false}
       ]
     },
-    
     {
       "categoryId": "auto",
       "name": "Quarto",
@@ -172,9 +175,9 @@
       "progress": 0.0,
       "isCustom": false,
       "isDicarte": false,
-      "totalNeeded": 18,
+      "totalNeeded": 26,
       "totalPurchased": 0,
-      "totalSpent": 0,
+      "totalSpent": 0.0,
       "items": [
         {"itemId":"auto","name":"Berço","icon":"🛏️","quantityNeeded":1,"quantityPurchased":0,"priority":"média","notesItems":"","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
         {"itemId":"auto","name":"Colchão","icon":"🛏️","quantityNeeded":1,"quantityPurchased":0,"priority":"média","notesItems":"","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
@@ -208,9 +211,9 @@
       "progress": 0.0,
       "isCustom": false,
       "isDicarte": false,
-      "totalNeeded": 8,
+      "totalNeeded": 10,
       "totalPurchased": 0,
-      "totalSpent": 0,
+      "totalSpent": 0.0,
       "items": [
         {"itemId":"auto","name":"Carrinho de bebê","icon":"🧒","quantityNeeded":1,"quantityPurchased":0,"priority":"alta","notesItems":"leve e reclinável","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
         {"itemId":"auto","name":"Bebê conforto/cadeirinha carro","icon":"🚗","quantityNeeded":1,"quantityPurchased":0,"priority":"alta","notesItems":"segurança ISO‑FIX","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
@@ -231,9 +234,9 @@
       "progress": 0.0,
       "isCustom": false,
       "isDicarte": false,
-      "totalNeeded": 12,
+      "totalNeeded": 14,
       "totalPurchased": 0,
-      "totalSpent": 0,
+      "totalSpent": 0.0,
       "items": [
         {"itemId":"auto","name":"Mamadeira pequena","icon":"🍽️","quantityNeeded":1,"quantityPurchased":0,"priority":"média","notesItems":"","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
         {"itemId":"auto","name":"Mamadeira média/grande","icon":"🍽️","quantityNeeded":1,"quantityPurchased":0,"priority":"média","notesItems":"","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
@@ -254,9 +257,9 @@
       "progress": 0.0,
       "isCustom": false,
       "isDicarte": false,
-      "totalNeeded": 14,
+      "totalNeeded": 15,
       "totalPurchased": 0,
-      "totalSpent": 0,
+      "totalSpent": 0.0,
       "items": [
         {"itemId":"auto","name":"Tapete de atividades","icon":"🧸","quantityNeeded":1,"quantityPurchased":0,"priority":"média","notesItems":"","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
         {"itemId":"auto","name":"Tatame de espuma","icon":"🧸","quantityNeeded":1,"quantityPurchased":0,"priority":"média","notesItems":"","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
@@ -268,7 +271,6 @@
         {"itemId":"auto","name":"Chocalhos","icon":"🧸","quantityNeeded":2,"quantityPurchased":0,"priority":"média","notesItems":"","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
         {"itemId":"auto","name":"Mordedor","icon":"🧸","quantityNeeded":2,"quantityPurchased":0,"priority":"média","notesItems":"Silicone alimentício.","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
         {"itemId":"auto","name":"Piscinha de bebê","icon":"📦","quantityNeeded":1,"quantityPurchased":0,"priority":"baixa","notesItems":"","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false}
-      
       ]
     },
     {
@@ -278,9 +280,9 @@
       "progress": 0.0,
       "isCustom": false,
       "isDicarte": false,
-      "totalNeeded": 98,
+      "totalNeeded": 101,
       "totalPurchased": 0,
-      "totalSpent": 0,
+      "totalSpent": 0.0,
       "items": [
         {"itemId":"auto","name":"Óleo corporal p/ estrias","icon":"🤱","quantityNeeded":1,"quantityPurchased":0,"priority":"alta","notesItems":"","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
         {"itemId":"auto","name":"Camisola amamentação","icon":"🤱","quantityNeeded":2,"quantityPurchased":0,"priority":"média","notesItems":"","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
@@ -300,9 +302,9 @@
       "progress": 0.0,
       "isCustom": false,
       "isDicarte": false,
-      "totalNeeded": 5,
+      "totalNeeded": 14,
       "totalPurchased": 0,
-      "totalSpent": 0,
+      "totalSpent": 0.0,
       "items": [
         {"itemId":"auto","name":"Protetor de tomada","icon":"🛏️","quantityNeeded":6,"quantityPurchased":0,"priority":"média","notesItems":"","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
         {"itemId":"auto","name":"Protetor de quina","icon":"🛏️","quantityNeeded":6,"quantityPurchased":0,"priority":"média","notesItems":"","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
