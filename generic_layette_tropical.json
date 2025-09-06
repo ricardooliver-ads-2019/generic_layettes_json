@@ -86,7 +86,7 @@
       "totalSpent": 0.0,
       "items": [
         {"itemId":"auto","name":"Banheira com suporte","icon":"🛀","quantityNeeded":1,"quantityPurchased":0,"priority":"alta","notesItems":"banheira fixa ou retrátil","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
-        {"itemId":"auto","name":"Rede ou assento banho","icon":"🛀","quantityNeeded":1,"priority":"alta","notesItems":"segurança adicional","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
+        {"itemId":"auto","name":"Rede ou assento banho","icon":"🛀","quantityNeeded":1,"quantityPurchased":0,"priority":"alta","notesItems":"segurança adicional","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
         {"itemId":"auto","name":"Toalha com capuz","icon":"🧼","quantityNeeded":3,"quantityPurchased":0,"priority":"alta","notesItems":"macia, felpuda, com capuz","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
         {"itemId":"auto","name":"Toalha fralda","icon":"🧻","quantityNeeded":3,"quantityPurchased":0,"priority":"média","notesItems":"multiuso para rosto e banho","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
         {"itemId":"auto","name":"Fralda de pano","icon":"🟩","quantityNeeded":10,"quantityPurchased":0,"priority":"alta","notesItems":"paninhos de boca e arrotar","notesUser":"","purchaseLink":"","isPresente":false,"value":null,"isDicarte":false,"isCustom":false},
