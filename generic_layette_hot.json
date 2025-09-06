@@ -18,7 +18,7 @@
   "totalPurchasedAll": 0,
   "categories": [
     {
-      "categoryId": "auto",
+      
       "name": "Roupinhas",
       "icon": "🧦",
       "progress": 0.0,
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "categoryId": "auto",
+      
       "name": "Maternidade",
       "icon": "🤱",
       "progress": 0.0,
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "categoryId": "auto",
+      
       "name": "Banho e Higiene",
       "icon": "🛁",
       "progress": 0.0,
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "categoryId": "auto",
+      
       "name": "Fralda descartável",
       "icon": "🤱",
       "progress": 0.0,
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "categoryId": "auto",
+      
       "name": "Farmácia",
       "icon": "💊",
       "progress": 0.0,
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "categoryId": "auto",
+      
       "name": "Amamentação",
       "icon": "🤱",
       "progress": 0.0,
@@ -169,7 +169,7 @@
       ]
     },
     {
-      "categoryId": "auto",
+      
       "name": "Quarto",
       "icon": "🛏️",
       "progress": 0.0,
@@ -205,7 +205,7 @@
       ]
     },
     {
-      "categoryId": "auto",
+      
       "name": "Passeio",
       "icon": "🚼",
       "progress": 0.0,
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "categoryId": "auto",
+      
       "name": "Alimentação",
       "icon": "🍽️",
       "progress": 0.0,
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "categoryId": "auto",
+      
       "name": "Brinquedos",
       "icon": "🧸",
       "progress": 0.0,
@@ -274,7 +274,7 @@
       ]
     },
     {
-      "categoryId": "auto",
+      
       "name": "Itens da Mamãe",
       "icon": "🤱",
       "progress": 0.0,
@@ -296,7 +296,7 @@
       ]
     },
     {
-      "categoryId": "auto",
+      
       "name": "Diversos",
       "icon": "📦",
       "progress": 0.0,
